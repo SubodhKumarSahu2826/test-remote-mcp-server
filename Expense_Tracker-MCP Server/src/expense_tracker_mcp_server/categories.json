@@ -1,0 +1,228 @@
+{
+  "version": "1.0",
+  "description": "Expense categories and subcategories for the Expense Tracker MCP server.",
+  "categories": {
+    "Housing": [
+      "Rent",
+      "Mortgage",
+      "Property Tax",
+      "Home Insurance",
+      "Maintenance & Repairs",
+      "Home Improvement",
+      "Society / HOA Fees",
+      "Utilities"
+    ],
+    "Food & Dining": [
+      "Groceries",
+      "Vegetables & Fruits",
+      "Dairy & Eggs",
+      "Meat & Seafood",
+      "Bakery",
+      "Restaurants",
+      "Fast Food",
+      "Cafes & Coffee",
+      "Takeaway & Delivery",
+      "Snacks",
+      "Alcohol",
+      "Other Food"
+    ],
+    "Transportation": [
+      "Fuel",
+      "Public Transport",
+      "Bus",
+      "Train",
+      "Metro",
+      "Taxi & Cab",
+      "Ride Sharing",
+      "Parking",
+      "Tolls",
+      "Vehicle Maintenance",
+      "Vehicle Insurance",
+      "Vehicle Registration",
+      "Vehicle Loan / EMI",
+      "Car Wash",
+      "Bike / Scooter Maintenance",
+      "Other Transportation"
+    ],
+    "Bills & Utilities": [
+      "Electricity",
+      "Water",
+      "Gas",
+      "Internet",
+      "Mobile Phone",
+      "Cable / DTH",
+      "Streaming Services",
+      "Cloud Storage",
+      "Other Bills"
+    ],
+    "Shopping": [
+      "Clothing",
+      "Shoes",
+      "Accessories",
+      "Electronics",
+      "Home Appliances",
+      "Furniture",
+      "Personal Items",
+      "Online Shopping",
+      "Gifts",
+      "Other Shopping"
+    ],
+    "Health & Medical": [
+      "Doctor",
+      "Hospital",
+      "Medicines",
+      "Pharmacy",
+      "Dental",
+      "Vision / Eye Care",
+      "Health Insurance",
+      "Lab Tests",
+      "Medical Equipment",
+      "Other Medical"
+    ],
+    "Personal Care": [
+      "Haircut / Salon",
+      "Skincare",
+      "Cosmetics",
+      "Toiletries",
+      "Laundry",
+      "Spa / Wellness",
+      "Other Personal Care"
+    ],
+    "Education": [
+      "Tuition / Fees",
+      "Courses",
+      "Books",
+      "Stationery",
+      "Certifications",
+      "Online Learning",
+      "Training",
+      "School / College Supplies",
+      "Other Education"
+    ],
+    "Entertainment": [
+      "Movies",
+      "Concerts",
+      "Events",
+      "Games",
+      "Gaming",
+      "Hobbies",
+      "Sports & Recreation",
+      "Subscriptions",
+      "Books & Magazines",
+      "Other Entertainment"
+    ],
+    "Travel": [
+      "Flights",
+      "Train Tickets",
+      "Bus Tickets",
+      "Hotels",
+      "Accommodation",
+      "Travel Insurance",
+      "Visa / Passport",
+      "Local Transport",
+      "Sightseeing",
+      "Tours",
+      "Travel Food",
+      "Travel Shopping",
+      "Other Travel"
+    ],
+    "Family & Children": [
+      "Childcare",
+      "School Expenses",
+      "Children's Clothing",
+      "Children's Food",
+      "Toys",
+      "Baby Supplies",
+      "Family Support",
+      "Other Family"
+    ],
+    "Pets": [
+      "Pet Food",
+      "Veterinary",
+      "Pet Medicines",
+      "Grooming",
+      "Pet Supplies",
+      "Pet Insurance",
+      "Pet Boarding",
+      "Other Pet Expenses"
+    ],
+    "Financial": [
+      "Bank Fees",
+      "Credit Card Fees",
+      "Loan EMI",
+      "Loan Interest",
+      "Credit Card Payment",
+      "Investment Fees",
+      "Taxes",
+      "Insurance",
+      "Financial Services",
+      "Other Financial"
+    ],
+    "Investments": [
+      "Stocks",
+      "Mutual Funds",
+      "ETFs",
+      "Bonds",
+      "Fixed Deposit",
+      "Recurring Deposit",
+      "Gold",
+      "Cryptocurrency",
+      "Retirement",
+      "Other Investments"
+    ],
+    "Work & Business": [
+      "Office Supplies",
+      "Software",
+      "Hardware",
+      "Professional Services",
+      "Business Travel",
+      "Work Meals",
+      "Work Clothing",
+      "Courses & Training",
+      "Freelancing Expenses",
+      "Other Work Expenses"
+    ],
+    "Charity & Donations": [
+      "Charity",
+      "Religious Donation",
+      "Community Donation",
+      "Fundraising",
+      "Other Donations"
+    ],
+    "Government & Legal": [
+      "Government Fees",
+      "Passport",
+      "Visa",
+      "Licenses",
+      "Fines & Penalties",
+      "Legal Fees",
+      "Documentation",
+      "Other Government / Legal"
+    ],
+    "Gifts & Occasions": [
+      "Birthday",
+      "Wedding",
+      "Anniversary",
+      "Festival",
+      "Holiday Gifts",
+      "Family Gifts",
+      "Friends Gifts",
+      "Other Gifts"
+    ],
+    "Lifestyle": [
+      "Gym",
+      "Fitness",
+      "Sports",
+      "Outdoor Activities",
+      "Clubs",
+      "Subscriptions",
+      "Hobbies",
+      "Other Lifestyle"
+    ],
+    "Miscellaneous": [
+      "Cash Withdrawal",
+      "Uncategorized",
+      "Other"
+    ]
+  }
+}
